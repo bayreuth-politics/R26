@@ -22,7 +22,7 @@ ________
 ## Assessments
 
 
-• Activity in class (20% of final mark)
+• Activity in class \& homework (20% of final mark)
 
 • In-class coding exercise (30%)
 
