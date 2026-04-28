@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data Analysis in R Winter 2025/26
+title: Data Analysis in R Summer 2026
 subtitle: University of Bayreuth
 email: kenneth.stiller@uni-bayreuth.de
 description: >- # this means to ignore newlines until "baseurl:"
   Here you find course materials, notes and data for the Data Analysis in R course at the University of Bayreuth in the 2025/26 Winter Term.
-baseurl: "/R2526" # the subpath of your site, e.g. /blog
+baseurl: "/R26" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
