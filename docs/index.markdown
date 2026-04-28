@@ -51,7 +51,7 @@ ________
 
 ## Syllabus
 
-<embed src="R26_Syllabus_Bayreuth.pdf" width="800" height="650" 
+<embed src="DataAnalysisR26_Syllabus.pdf" width="800" height="650" 
  type="application/pdf">
 
 
