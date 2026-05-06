@@ -9,7 +9,7 @@ nav_order: 4
 Here you find our lecture slides:
 
 [Lecture 1: Intro](https://raw.githubusercontent.com/bayreuth-politics/R26/main/docs/slides/Data_Analysis_in_R_Spring_Week1.pdf){: .btn .btn-blue .mr-3} 
-<!-- [Part 2: Measurement & Descriptive Stats](https://raw.githubusercontent.com/bayreuth-politics/R2526/main/docs/slides/Data_Analysis_in_R_Bayreuth_2526_2.pdf){: .btn .btn-blue .mr-3} -->
+[Lecture 2: Measurement & Descriptive Stats](https://raw.githubusercontent.com/bayreuth-politics/R26/main/docs/slides/Data_Analysis_in_R_Spring_Week2.pdf){: .btn .btn-blue .mr-3} 
 <!-- [Part 3: Sampling & Visualisation](https://raw.githubusercontent.com/bayreuth-politics/R2526/main/docs/slides/Data_Analysis_in_R_Bayreuth_2526_3.pdf){: .btn .btn-blue .mr-3} -->
 
 
