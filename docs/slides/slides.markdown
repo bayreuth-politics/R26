@@ -14,8 +14,7 @@ Here you find our lecture slides:
 
 
  [Lecture 4: Prediction](https://raw.githubusercontent.com/bayreuth-politics/R26/main/docs/slides/Data_Analysis_in_R_Spring_Week4.pdf){: .btn .btn-blue .mr-3} 
-<!-- [Part 5: Multivariate Regression](https://raw.githubusercontent.com/bayreuth-politics/R2526/main/docs/slides/Data_Analysis_in_R_Bayreuth_2526_5.pdf){: .btn .btn-blue .mr-3} -->
-
+ [Part 5: Multivariate Regression](https://raw.githubusercontent.com/bayreuth-politics/R26/main/docs/slides/Data_Analysis_in_R_Spring_Week5.pdf){: .btn .btn-blue .mr-3} 
 
 <!-- [Part 6:  Probability & Uncertainty](https://raw.githubusercontent.com/bayreuth-politics/R2526/main/docs/slides/Data_Analysis_in_R_Bayreuth_2526_6.pdf){: .btn .btn-blue .mr-3} -->
 <!-- [Part 7:  Hypothesis Testing](https://raw.githubusercontent.com/bayreuth-politics/R2526/main/docs/slides/Data_Analysis_in_R_Bayreuth_2526_7.pdf){: .btn .btn-blue .mr-3} -->
