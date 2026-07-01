@@ -1,7 +1,0 @@
----
-layout: page
-title: Exercise
-permalink: /exercise/
-has_children: false
-nav_order: 1
----
